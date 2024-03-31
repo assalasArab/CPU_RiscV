@@ -1,0 +1,3 @@
+Bonjour Monsieur,
+
+Voici la première version (v1) du CPU avec le circuit de contrôle. Falek et moi avons rencontré un problème lors de l'utilisation du CPU avec le circuit de contrôle. Le CPU fonctionne très bien de manière manuelle et exécute toutes les commandes R-32. De plus, le circuit de contrôle fonctionne parfaitement. Cependant, le problème réside dans un retard au niveau de la RAM, car elle ne transmet pas l'adresse correctement. Je ne peux pas expliquer la raison de ce dysfonctionnement.
